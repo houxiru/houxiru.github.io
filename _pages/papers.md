@@ -2,6 +2,8 @@
 layout: page
 permalink: /papers/
 title: Papers
+nav: true
+nav_order: 1
 ---
 
 #### **PREPRINTS**
