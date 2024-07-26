@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 permalink: /papers/
 title: papers
@@ -14,7 +14,7 @@ Prinzing, M., **Rose, D.**, Zhang, S., Tu, E., Concha, A., Schaffer, J., Rea, M.
 
 
 
-Kosie, J.\*, **Zettersten, M.\***, & the ManyBabies5 team. (Stage 1 registered report, in-principle acceptance). <span style="color: #00ab37">ManyBabies5: A large-scale investigation of the proposed shift from familiarity preference to novelty preference in infant looking time.</span> \*equal authorship <a href="https://osf.io/g3udp/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/manybabies/mb5-analysis" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> [[preprint]](https://psyarxiv.com/ck3vd/){:target="\_blank"}
+**Rose, D.**, Zhang, S., Han, Q., & Gerstenberg, T. (2023). <span style="color: green">Teleology and generics.</span> \*equal authorship <a href="https://osf.io/g3udp/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a> <a href="https://github.com/manybabies/mb5-analysis" target="_blank" title="GitHub"><i class="fab fa-github"></i></a> <a href="https://osf.io/kh3xa/" target="_blank" title="OSF"><i class="ai ai-osf"></i></a>
 
 #### **2024**
 
@@ -100,4 +100,4 @@ Koranda, M.\*, **Zettersten, M.\***, & McDonald, M. (2018). [<span style="color:
 
 ### **DISSERTATION**
 
-**Zettersten, M.** (2020). [<span style="color: #00ab37">Seeking new words: Active word learning in infants and children.</span>](https://mzettersten.github.io/assets/pdf/zettersten_2020.pdf){:target="\_blank"} University of Wisconsin-Madison, Madison, WI. ProQuest Dissertations Publishing, 2020. 27994650.
+**Zettersten, M.** (2020). [<span style="color: #00ab37">Seeking new words: Active word learning in infants and children.</span>](https://mzettersten.github.io/assets/pdf/zettersten_2020.pdf){:target="\_blank"} University of Wisconsin-Madison, Madison, WI. ProQuest Dissertations Publishing, 2020. 27994650. -->
