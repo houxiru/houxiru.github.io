@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Neural Aesthetic Portrait Image Assessment
-description: Integrated facial embeddings from VGG-Face model into Neural Image Assessment (NIMA) framework, achieving an accuracy of 0.8341, surpassing baseline results.
+title: NIMA
+description: Neural Aesthetic Portrait Image Assessment
 img: assets/img/CS231N_Poster.png
 importance: 1
 category: work
-related_publications: true
+related_publications: false
 ---
 
 Portraits form a significant portion of personal photo albums, making the development of neural aesthetic assessment specialized for portraits beneficial to everyone's everyday life. To improve upon a general aesthetic model to perform neural aesthetic assessment on portraits, we integrated facial embeddings from the VGG-Face model into the Neural Image Assessment (NIMA) framework. This proved effective, with the enhanced model achieving an accuracy of 0.8341, an LCC of 0.7786 and an SRCC of 0.7849, surpassing the baseline results. Additionally, we conducted interpretability experiments using gradient-weighted class activation mapping (Grad-CAM) and guided backpropagation to visualize the regions of images that contribute most to the model's predictions. These visualizations help validate the model's decision-making process and highlight its focus on relevant facial features.
