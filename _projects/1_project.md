@@ -18,10 +18,3 @@ Portraits form a significant portion of personal photo albums, making the develo
 <div class="caption">
     Poster for our project.
 </div>
-
-<iframe
-  src="assets/pdf/CS231N_Project_Report.pdf"
-  style="width: 100%; height: 600px;"
-  frameborder="0"
->
-</iframe>
