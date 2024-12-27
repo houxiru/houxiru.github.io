@@ -1,6 +1,6 @@
 ---
 layout: page
-title: project 2
+title: Semantic Learning Optimization and Tuning Heuristics for Enhanced NLP with minBERT
 description: a project with a background image and giscus comments
 img: assets/img/3.jpg
 importance: 2
@@ -8,18 +8,7 @@ category: work
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+Advancements in Natural Language Processing (NLP) through models like BERT have significantly propelled the field, yet challenges persist in tasks such as sentiment analysis, paraphrase detection, and semantic textual similarity due to the nuanced nature of human language. This paper presents an innovative approach to these tasks by enhancing the BERT model with Multiple Negatives Ranking Loss (MNRL) and regularized optimization techniques, specifically aimed at improving semantic understanding and model generalization. We introduced fine-tuning strategies that leverage task-specific head variations and pre-concatenation of sentence pairs, offering a deeper contextual analysis. Our experimental results exhibit notable enhancements across all tasks, with our methods achieving leading scores on benchmark leaderboards. The implementation of MNRL demonstrated a refined ability to discriminate between closely related texts, whereas the regularization methods effectively mitigated the overfitting problem prevalent in deep learning models. This study highlights the critical aspects of model tuning and loss function selection in achieving superior NLP task performance.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
