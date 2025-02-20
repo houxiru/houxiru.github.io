@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='#'>Stanford University</a>. # Address. Contacts. Moto. Etc.
+subtitle: Stanford University. *BS in Computer Science.* # Address. Contacts. Moto. Etc.
 
 profile:
   align: right

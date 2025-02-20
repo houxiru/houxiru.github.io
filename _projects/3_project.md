@@ -3,7 +3,7 @@ layout: page
 title: VR DINO
 description: VR version of Chrome's DINO game
 img: assets/img/dino/main.png
-importance: 2
+importance: 3
 category: work
 giscus_comments: false
 ---
