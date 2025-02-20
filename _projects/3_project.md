@@ -11,11 +11,12 @@ giscus_comments: false
 The rapid advancement in virtual reality (VR) technology has empowered developers to craft highly immersive experiences that captivate users' imaginations and deliver engaging, interactive content. In the "VR DINO" project we developed a VR parkour game, inspired by the popular Chrome "DINO" game. Players control a cute animated dinosaur to avoid crashing into its animal friends. Utilizing VR technology, this game seeks to enhance the player's experience through immersive interaction.
 
 [Github Repo](https://github.com/phillian-sp/VR_DINO)
+
 [Project Report](https://houxiru.github.io/assets/pdf/EE267_Final_Report.pdf)
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/main.png" title="Main Image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/dino/main.png" title="Main Image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
