@@ -2,7 +2,7 @@
 layout: page
 title: VR DINO
 description: VR version of Chrome's DINO game
-img: assets/img/main.png
+img: assets/img/dino/main.png
 importance: 2
 category: work
 giscus_comments: false
@@ -18,6 +18,9 @@ The rapid advancement in virtual reality (VR) technology has empowered developer
     <div class="col-sm mt-3 mt-md-0">
         <img src="https://houxiru.github.io/assets/img/dino/main.png" alt="Main Image" class="img-fluid rounded z-depth-1">
     </div>
+</div>
+<div class="caption">
+    Game Interface.
 </div>
 
 <div class="row">
