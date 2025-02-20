@@ -16,7 +16,7 @@ The rapid advancement in virtual reality (VR) technology has empowered developer
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/dino/main.png" title="Main Image" class="img-fluid rounded z-depth-1" %}
+        <img src="https://houxiru.github.io/assets/img/dino/main.png" alt="Main Image" class="img-fluid rounded z-depth-1">
     </div>
 </div>
 
