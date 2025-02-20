@@ -10,7 +10,7 @@ giscus_comments: false
 
 <div 
   id="retainable-rss-embed"
-  data-rss="https://medium.com/stanford-cs224w/can-stage-handle-the-pressure-testing-its-generalizability-across-graph-models-66292eba0021"
+  data-rss="https://medium.com/@cicihou2004"
   data-maxcols="1"
   data-layout="grid"
   data-poststyle="inline"
