@@ -28,4 +28,10 @@ Responsibility requires causation. But there are different kinds of causes. Some
     Poster for our project.
 </div>
 
-{% include repository/repo.liquid repository="davdrose/cause_fault_dev" %}
+<!-- Github Repo-->
+See more about this project on our GitHub repository: 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include repository/repo.liquid repository="davdrose/cause_fault_dev" %}
+    </div>
+</div>
