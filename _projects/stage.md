@@ -3,7 +3,7 @@ layout: page
 title: Can STAGE Handle the Pressure?
 description: Testing Its Generalizability Across Graph Models
 img: assets/img/stage.jpeg
-importance: 1
+importance: 2
 category: work
 giscus_comments: false
 ---

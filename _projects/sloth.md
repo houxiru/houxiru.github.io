@@ -3,7 +3,7 @@ layout: page
 title: SLOTH
 description: Semantic Learning Optimization and Tuning Heuristics for Enhanced NLP with minBERT
 img: assets/img/CS224N_Poster.png
-importance: 3
+importance: 5
 category: work
 giscus_comments: false
 ---

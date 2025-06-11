@@ -3,7 +3,7 @@ layout: page
 title: Cause and Fault
 description: in Development
 img: assets/img/cause_fault.jpeg
-importance: 5
+importance: 6
 category: work
 giscus_comments: false
 ---

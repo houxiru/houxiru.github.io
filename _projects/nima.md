@@ -3,7 +3,7 @@ layout: page
 title: NIMA
 description: Neural Aesthetic Portrait Image Assessment
 img: assets/img/CS231N_Poster.png
-importance: 2
+importance: 3
 category: work
 related_publications: false
 ---
